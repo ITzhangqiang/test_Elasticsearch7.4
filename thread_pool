@@ -1,0 +1,30 @@
+2020-01-03 16:07
+
+node_name   name    active rejected completed  queue
+es-data-0   refresh      0        0   1033159      0
+es-data-1   refresh      0        0    973662      0
+es-data-3   refresh      0        0    909610      0
+es-data-4   refresh      0        0   1028312      0
+es-data-5   refresh      0        0   1104843      0
+es-data-6   refresh     10        0    191076 110887
+es-data-7   refresh      0        0   1101409      0
+es-data-8   refresh     10        0    144294  33354
+es-data-9   refresh      0        0   1034910      0
+es-master-0 refresh      0        0         0      0
+es-master-1 refresh      0        0       128      0
+es-master-2 refresh      0        0         0      0
+
+node_name   name  active rejected completed queue
+es-data-0   flush      0        0    164441     0
+es-data-1   flush      0        0    180405     0
+es-data-3   flush      0        0    174001     0
+es-data-4   flush      0        0    163990     0
+es-data-5   flush      0        0    179831     0
+es-data-6   flush      2        0    136618     0
+es-data-7   flush      0        0    184513     0
+es-data-8   flush      5        0     38570   280
+es-data-9   flush      0        0    176309     0
+es-master-0 flush      0        0         0     0
+es-master-1 flush      0        0         0     0
+es-master-2 flush      0        0         0     0
+
